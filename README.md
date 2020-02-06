@@ -1,8 +1,8 @@
 # robosys-kadai1
 ## 概要
-LEDを点灯させます。
+LEDを点灯させるためのデバイスドライバを作成しました。
 ## 動作デモ
-
+URL  https://youtu.be/AhocK_OZS0w 
 
 ## 動作環境、使用したもの
 Raspberry Pi 3 Model B+ 
